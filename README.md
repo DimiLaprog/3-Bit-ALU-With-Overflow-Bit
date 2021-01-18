@@ -13,7 +13,7 @@ It is obvious that X=0 signals a logical operation,whilst X=1 signals arithemtic
 Regarding the selection between Addition and Subtraction,it is implemented via the same full adder circuit based on the two's complement of one of the operands.
 The transformation to complement of two is decided by Cin and B_inv signals in the classical way.
  * To make the above more clear, below are presented in the following order: 
-  1. DSCH logical circuit diagrams(In a modular manner).
+  1. DSCH logic circuit diagrams(In a modular manner).
   2. Microwind Physical Layout
   
   For the verilog code generated from DSCH and for the modular verilog code look in the Code files.
